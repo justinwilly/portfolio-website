@@ -72,6 +72,26 @@ input, select, textarea {
 	appearance: none;
 }
 
+/* Youtube video responsiveness */
+
+	.iframe-container{
+		position: relative;
+		width: 100%;
+		padding-bottom: 56.25%; 
+		height: 0;
+	}
+	.iframe-container iframe{
+		position: absolute;
+		top:0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+
+/* results table */
+
+
+
 /* Basic */
 
 	@-ms-viewport {
@@ -153,7 +173,7 @@ input, select, textarea {
 
 	body {
 		background-color: #2d2d2d;
-		color: #ffff;
+		color: white;
 	}
 
 	body, input, select, textarea {
