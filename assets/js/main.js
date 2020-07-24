@@ -24,7 +24,7 @@
 		$window.on('load', function() {
 			window.setTimeout(function() {
 				$body.removeClass('is-preload');
-			}, 100);
+			}, 50);
 		});
 
 	// Browser fixes.
@@ -304,7 +304,7 @@
 								// Focus.
 									$body.focus();
 
-							}, 475);
+							}, 10);
 
 						}, 125);
 
@@ -334,7 +334,7 @@
 								// Set loaded.
 									$modal.addClass('loaded');
 
-							}, 275);
+							}, 125);
 
 						});
 

@@ -184,10 +184,10 @@ input, select, textarea {
 	}
 
 	a {
-		-moz-transition: color 0.2s ease-in-out;
-		-webkit-transition: color 0.2s ease-in-out;
-		-ms-transition: color 0.2s ease-in-out;
-		transition: color 0.2s ease-in-out;
+		-moz-transition: color 0.1s ease-in-out;
+		-webkit-transition: color 0.1s ease-in-out;
+		-ms-transition: color 0.1s ease-in-out;
+		transition: color 0.1s ease-in-out;
 		text-decoration: underline;
 	}
 
@@ -3051,10 +3051,10 @@ input, select, textarea {
 /* Banner (transitions) */
 
 	.banner.onload-content-fade-up .content {
-		-moz-transition: opacity 0.75s ease-in-out, -moz-transform 0.75s ease-in-out;
-		-webkit-transition: opacity 0.75s ease-in-out, -webkit-transform 0.75s ease-in-out;
-		-ms-transition: opacity 0.75s ease-in-out, -ms-transform 0.75s ease-in-out;
-		transition: opacity 0.75s ease-in-out, transform 0.75s ease-in-out;
+		-moz-transition: opacity 0.25s ease-in-out, -moz-transform 0.25s ease-in-out;
+		-webkit-transition: opacity 0.25s ease-in-out, -webkit-transform 0.25s ease-in-out;
+		-ms-transition: opacity 0.25s ease-in-out, -ms-transform 0.25s ease-in-out;
+		transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
 	}
 
 	body.is-preload .banner.onload-content-fade-up .content {
@@ -3066,10 +3066,10 @@ input, select, textarea {
 	}
 
 	.banner.onload-content-fade-down .content {
-		-moz-transition: opacity 0.75s ease-in-out, -moz-transform 0.75s ease-in-out;
-		-webkit-transition: opacity 0.75s ease-in-out, -webkit-transform 0.75s ease-in-out;
-		-ms-transition: opacity 0.75s ease-in-out, -ms-transform 0.75s ease-in-out;
-		transition: opacity 0.75s ease-in-out, transform 0.75s ease-in-out;
+		-moz-transition: opacity 0.25s ease-in-out, -moz-transform 0.25s ease-in-out;
+		-webkit-transition: opacity 0.25s ease-in-out, -webkit-transform 0.25s ease-in-out;
+		-ms-transition: opacity 0.25s ease-in-out, -ms-transform 0.25s ease-in-out;
+		transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
 	}
 
 	body.is-preload .banner.onload-content-fade-down .content {
@@ -3081,10 +3081,10 @@ input, select, textarea {
 	}
 
 	.banner.onload-content-fade-left .content {
-		-moz-transition: opacity 0.75s ease-in-out, -moz-transform 0.75s ease-in-out;
-		-webkit-transition: opacity 0.75s ease-in-out, -webkit-transform 0.75s ease-in-out;
-		-ms-transition: opacity 0.75s ease-in-out, -ms-transform 0.75s ease-in-out;
-		transition: opacity 0.75s ease-in-out, transform 0.75s ease-in-out;
+		-moz-transition: opacity 0.25s ease-in-out, -moz-transform 0.25s ease-in-out;
+		-webkit-transition: opacity 0.25s ease-in-out, -webkit-transform 0.25s ease-in-out;
+		-ms-transition: opacity 0.25s ease-in-out, -ms-transform 0.25s ease-in-out;
+		transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
 	}
 
 	body.is-preload .banner.onload-content-fade-left .content {
@@ -3096,10 +3096,10 @@ input, select, textarea {
 	}
 
 	.banner.onload-content-fade-right .content {
-		-moz-transition: opacity 0.75s ease-in-out, -moz-transform 0.75s ease-in-out;
-		-webkit-transition: opacity 0.75s ease-in-out, -webkit-transform 0.75s ease-in-out;
-		-ms-transition: opacity 0.75s ease-in-out, -ms-transform 0.75s ease-in-out;
-		transition: opacity 0.75s ease-in-out, transform 0.75s ease-in-out;
+		-moz-transition: opacity 0.25s ease-in-out, -moz-transform 0.25s ease-in-out;
+		-webkit-transition: opacity 0.25s ease-in-out, -webkit-transform 0.25s ease-in-out;
+		-ms-transition: opacity 0.25s ease-in-out, -ms-transform 0.25s ease-in-out;
+		transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
 	}
 
 	body.is-preload .banner.onload-content-fade-right .content {
@@ -3111,10 +3111,10 @@ input, select, textarea {
 	}
 
 	.banner.onload-content-fade-in .content {
-		-moz-transition: opacity 0.75s ease-in-out;
-		-webkit-transition: opacity 0.75s ease-in-out;
-		-ms-transition: opacity 0.75s ease-in-out;
-		transition: opacity 0.75s ease-in-out;
+		-moz-transition: opacity 0.25s ease-in-out;
+		-webkit-transition: opacity 0.25s ease-in-out;
+		-ms-transition: opacity 0.25s ease-in-out;
+		transition: opacity 0.25s ease-in-out;
 	}
 
 	body.is-preload .banner.onload-content-fade-in .content {
@@ -3122,17 +3122,17 @@ input, select, textarea {
 	}
 
 	.banner.onload-image-fade-up .image {
-		-moz-transition: opacity 0.75s ease-in-out, -moz-transform 0.75s ease-in-out;
-		-webkit-transition: opacity 0.75s ease-in-out, -webkit-transform 0.75s ease-in-out;
-		-ms-transition: opacity 0.75s ease-in-out, -ms-transform 0.75s ease-in-out;
-		transition: opacity 0.75s ease-in-out, transform 0.75s ease-in-out;
+		-moz-transition: opacity 0.25s ease-in-out, -moz-transform 0.25s ease-in-out;
+		-webkit-transition: opacity 0.25s ease-in-out, -webkit-transform 0.25s ease-in-out;
+		-ms-transition: opacity 0.25s ease-in-out, -ms-transform 0.25s ease-in-out;
+		transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
 	}
 
 		.banner.onload-image-fade-up .image img {
-			-moz-transition: opacity 0.75s ease-in-out;
-			-webkit-transition: opacity 0.75s ease-in-out;
-			-ms-transition: opacity 0.75s ease-in-out;
-			transition: opacity 0.75s ease-in-out;
+			-moz-transition: opacity 0.25s ease-in-out;
+			-webkit-transition: opacity 0.25s ease-in-out;
+			-ms-transition: opacity 0.25s ease-in-out;
+			transition: opacity 0.25s ease-in-out;
 			-moz-transition-delay: 0.5625s;
 			-webkit-transition-delay: 0.5625s;
 			-ms-transition-delay: 0.5625s;
@@ -3152,17 +3152,17 @@ input, select, textarea {
 		}
 
 	.banner.onload-image-fade-down .image {
-		-moz-transition: opacity 0.75s ease-in-out, -moz-transform 0.75s ease-in-out;
-		-webkit-transition: opacity 0.75s ease-in-out, -webkit-transform 0.75s ease-in-out;
-		-ms-transition: opacity 0.75s ease-in-out, -ms-transform 0.75s ease-in-out;
-		transition: opacity 0.75s ease-in-out, transform 0.75s ease-in-out;
+		-moz-transition: opacity 0.25s ease-in-out, -moz-transform 0.25s ease-in-out;
+		-webkit-transition: opacity 0.25s ease-in-out, -webkit-transform 0.25s ease-in-out;
+		-ms-transition: opacity 0.25s ease-in-out, -ms-transform 0.25s ease-in-out;
+		transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
 	}
 
 		.banner.onload-image-fade-down .image img {
-			-moz-transition: opacity 0.75s ease-in-out;
-			-webkit-transition: opacity 0.75s ease-in-out;
-			-ms-transition: opacity 0.75s ease-in-out;
-			transition: opacity 0.75s ease-in-out;
+			-moz-transition: opacity 0.25s ease-in-out;
+			-webkit-transition: opacity 0.25s ease-in-out;
+			-ms-transition: opacity 0.25s ease-in-out;
+			transition: opacity 0.25s ease-in-out;
 			-moz-transition-delay: 0.5625s;
 			-webkit-transition-delay: 0.5625s;
 			-ms-transition-delay: 0.5625s;
@@ -3182,17 +3182,17 @@ input, select, textarea {
 		}
 
 	.banner.onload-image-fade-left .image {
-		-moz-transition: opacity 0.75s ease-in-out, -moz-transform 0.75s ease-in-out;
-		-webkit-transition: opacity 0.75s ease-in-out, -webkit-transform 0.75s ease-in-out;
-		-ms-transition: opacity 0.75s ease-in-out, -ms-transform 0.75s ease-in-out;
-		transition: opacity 0.75s ease-in-out, transform 0.75s ease-in-out;
+		-moz-transition: opacity 0.25s ease-in-out, -moz-transform 0.25s ease-in-out;
+		-webkit-transition: opacity 0.25s ease-in-out, -webkit-transform 0.25s ease-in-out;
+		-ms-transition: opacity 0.25s ease-in-out, -ms-transform 0.25s ease-in-out;
+		transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
 	}
 
 		.banner.onload-image-fade-left .image img {
-			-moz-transition: opacity 0.75s ease-in-out;
-			-webkit-transition: opacity 0.75s ease-in-out;
-			-ms-transition: opacity 0.75s ease-in-out;
-			transition: opacity 0.75s ease-in-out;
+			-moz-transition: opacity 0.25s ease-in-out;
+			-webkit-transition: opacity 0.25s ease-in-out;
+			-ms-transition: opacity 0.25s ease-in-out;
+			transition: opacity 0.25s ease-in-out;
 			-moz-transition-delay: 0.5625s;
 			-webkit-transition-delay: 0.5625s;
 			-ms-transition-delay: 0.5625s;
@@ -3212,17 +3212,17 @@ input, select, textarea {
 		}
 
 	.banner.onload-image-fade-right .image {
-		-moz-transition: opacity 0.75s ease-in-out, -moz-transform 0.75s ease-in-out;
-		-webkit-transition: opacity 0.75s ease-in-out, -webkit-transform 0.75s ease-in-out;
-		-ms-transition: opacity 0.75s ease-in-out, -ms-transform 0.75s ease-in-out;
-		transition: opacity 0.75s ease-in-out, transform 0.75s ease-in-out;
+		-moz-transition: opacity 0.25s ease-in-out, -moz-transform 0.25s ease-in-out;
+		-webkit-transition: opacity 0.25s ease-in-out, -webkit-transform 0.25s ease-in-out;
+		-ms-transition: opacity 0.25s ease-in-out, -ms-transform 0.25s ease-in-out;
+		transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
 	}
 
 		.banner.onload-image-fade-right .image img {
-			-moz-transition: opacity 0.75s ease-in-out;
-			-webkit-transition: opacity 0.75s ease-in-out;
-			-ms-transition: opacity 0.75s ease-in-out;
-			transition: opacity 0.75s ease-in-out;
+			-moz-transition: opacity 0.25s ease-in-out;
+			-webkit-transition: opacity 0.25s ease-in-out;
+			-ms-transition: opacity 0.25s ease-in-out;
+			transition: opacity 0.25s ease-in-out;
 			-moz-transition-delay: 0.5625s;
 			-webkit-transition-delay: 0.5625s;
 			-ms-transition-delay: 0.5625s;
@@ -3242,10 +3242,10 @@ input, select, textarea {
 		}
 
 	.banner.onload-image-fade-in .image img {
-		-moz-transition: opacity 0.75s ease-in-out;
-		-webkit-transition: opacity 0.75s ease-in-out;
-		-ms-transition: opacity 0.75s ease-in-out;
-		transition: opacity 0.75s ease-in-out;
+		-moz-transition: opacity 0.25s ease-in-out;
+		-webkit-transition: opacity 0.25s ease-in-out;
+		-ms-transition: opacity 0.25s ease-in-out;
+		transition: opacity 0.25s ease-in-out;
 	}
 
 	body.is-preload .banner.onload-image-fade-in .image img {
@@ -3253,10 +3253,10 @@ input, select, textarea {
 	}
 
 	.banner.onscroll-content-fade-up .content {
-		-moz-transition: opacity 0.75s ease-in-out, -moz-transform 0.75s ease-in-out;
-		-webkit-transition: opacity 0.75s ease-in-out, -webkit-transform 0.75s ease-in-out;
-		-ms-transition: opacity 0.75s ease-in-out, -ms-transform 0.75s ease-in-out;
-		transition: opacity 0.75s ease-in-out, transform 0.75s ease-in-out;
+		-moz-transition: opacity 0.25s ease-in-out, -moz-transform 0.25s ease-in-out;
+		-webkit-transition: opacity 0.25s ease-in-out, -webkit-transform 0.25s ease-in-out;
+		-ms-transition: opacity 0.25s ease-in-out, -ms-transform 0.25s ease-in-out;
+		transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
 	}
 
 	.banner.onscroll-content-fade-up.is-inactive .content {
@@ -3268,10 +3268,10 @@ input, select, textarea {
 	}
 
 	.banner.onscroll-content-fade-down .content {
-		-moz-transition: opacity 0.75s ease-in-out, -moz-transform 0.75s ease-in-out;
-		-webkit-transition: opacity 0.75s ease-in-out, -webkit-transform 0.75s ease-in-out;
-		-ms-transition: opacity 0.75s ease-in-out, -ms-transform 0.75s ease-in-out;
-		transition: opacity 0.75s ease-in-out, transform 0.75s ease-in-out;
+		-moz-transition: opacity 0.25s ease-in-out, -moz-transform 0.25s ease-in-out;
+		-webkit-transition: opacity 0.25s ease-in-out, -webkit-transform 0.25s ease-in-out;
+		-ms-transition: opacity 0.25s ease-in-out, -ms-transform 0.25s ease-in-out;
+		transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
 	}
 
 	.banner.onscroll-content-fade-down.is-inactive .content {
@@ -3283,10 +3283,10 @@ input, select, textarea {
 	}
 
 	.banner.onscroll-content-fade-left .content {
-		-moz-transition: opacity 0.75s ease-in-out, -moz-transform 0.75s ease-in-out;
-		-webkit-transition: opacity 0.75s ease-in-out, -webkit-transform 0.75s ease-in-out;
-		-ms-transition: opacity 0.75s ease-in-out, -ms-transform 0.75s ease-in-out;
-		transition: opacity 0.75s ease-in-out, transform 0.75s ease-in-out;
+		-moz-transition: opacity 0.25s ease-in-out, -moz-transform 0.25s ease-in-out;
+		-webkit-transition: opacity 0.25s ease-in-out, -webkit-transform 0.25s ease-in-out;
+		-ms-transition: opacity 0.25s ease-in-out, -ms-transform 0.25s ease-in-out;
+		transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
 	}
 
 	.banner.onscroll-content-fade-left.is-inactive .content {
@@ -3298,10 +3298,10 @@ input, select, textarea {
 	}
 
 	.banner.onscroll-content-fade-right .content {
-		-moz-transition: opacity 0.75s ease-in-out, -moz-transform 0.75s ease-in-out;
-		-webkit-transition: opacity 0.75s ease-in-out, -webkit-transform 0.75s ease-in-out;
-		-ms-transition: opacity 0.75s ease-in-out, -ms-transform 0.75s ease-in-out;
-		transition: opacity 0.75s ease-in-out, transform 0.75s ease-in-out;
+		-moz-transition: opacity 0.25s ease-in-out, -moz-transform 0.25s ease-in-out;
+		-webkit-transition: opacity 0.25s ease-in-out, -webkit-transform 0.25s ease-in-out;
+		-ms-transition: opacity 0.25s ease-in-out, -ms-transform 0.25s ease-in-out;
+		transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
 	}
 
 	.banner.onscroll-content-fade-right.is-inactive .content {
@@ -3313,10 +3313,10 @@ input, select, textarea {
 	}
 
 	.banner.onscroll-content-fade-in .content {
-		-moz-transition: opacity 0.75s ease-in-out;
-		-webkit-transition: opacity 0.75s ease-in-out;
-		-ms-transition: opacity 0.75s ease-in-out;
-		transition: opacity 0.75s ease-in-out;
+		-moz-transition: opacity 0.25s ease-in-out;
+		-webkit-transition: opacity 0.25s ease-in-out;
+		-ms-transition: opacity 0.25s ease-in-out;
+		transition: opacity 0.25s ease-in-out;
 	}
 
 	.banner.onscroll-content-fade-in.is-inactive .content {
@@ -3324,17 +3324,17 @@ input, select, textarea {
 	}
 
 	.banner.onscroll-image-fade-up .image {
-		-moz-transition: opacity 0.75s ease-in-out, -moz-transform 0.75s ease-in-out;
-		-webkit-transition: opacity 0.75s ease-in-out, -webkit-transform 0.75s ease-in-out;
-		-ms-transition: opacity 0.75s ease-in-out, -ms-transform 0.75s ease-in-out;
-		transition: opacity 0.75s ease-in-out, transform 0.75s ease-in-out;
+		-moz-transition: opacity 0.25s ease-in-out, -moz-transform 0.25s ease-in-out;
+		-webkit-transition: opacity 0.25s ease-in-out, -webkit-transform 0.25s ease-in-out;
+		-ms-transition: opacity 0.25s ease-in-out, -ms-transform 0.25s ease-in-out;
+		transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
 	}
 
 		.banner.onscroll-image-fade-up .image img {
-			-moz-transition: opacity 0.75s ease-in-out;
-			-webkit-transition: opacity 0.75s ease-in-out;
-			-ms-transition: opacity 0.75s ease-in-out;
-			transition: opacity 0.75s ease-in-out;
+			-moz-transition: opacity 0.25s ease-in-out;
+			-webkit-transition: opacity 0.25s ease-in-out;
+			-ms-transition: opacity 0.25s ease-in-out;
+			transition: opacity 0.25s ease-in-out;
 			-moz-transition-delay: 0.5625s;
 			-webkit-transition-delay: 0.5625s;
 			-ms-transition-delay: 0.5625s;
@@ -3354,17 +3354,17 @@ input, select, textarea {
 		}
 
 	.banner.onscroll-image-fade-down .image {
-		-moz-transition: opacity 0.75s ease-in-out, -moz-transform 0.75s ease-in-out;
-		-webkit-transition: opacity 0.75s ease-in-out, -webkit-transform 0.75s ease-in-out;
-		-ms-transition: opacity 0.75s ease-in-out, -ms-transform 0.75s ease-in-out;
-		transition: opacity 0.75s ease-in-out, transform 0.75s ease-in-out;
+		-moz-transition: opacity 0.25s ease-in-out, -moz-transform 0.25s ease-in-out;
+		-webkit-transition: opacity 0.25s ease-in-out, -webkit-transform 0.25s ease-in-out;
+		-ms-transition: opacity 0.25s ease-in-out, -ms-transform 0.25s ease-in-out;
+		transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
 	}
 
 		.banner.onscroll-image-fade-down .image img {
-			-moz-transition: opacity 0.75s ease-in-out;
-			-webkit-transition: opacity 0.75s ease-in-out;
-			-ms-transition: opacity 0.75s ease-in-out;
-			transition: opacity 0.75s ease-in-out;
+			-moz-transition: opacity 0.25s ease-in-out;
+			-webkit-transition: opacity 0.25s ease-in-out;
+			-ms-transition: opacity 0.25s ease-in-out;
+			transition: opacity 0.25s ease-in-out;
 			-moz-transition-delay: 0.5625s;
 			-webkit-transition-delay: 0.5625s;
 			-ms-transition-delay: 0.5625s;
@@ -3384,17 +3384,17 @@ input, select, textarea {
 		}
 
 	.banner.onscroll-image-fade-left .image {
-		-moz-transition: opacity 0.75s ease-in-out, -moz-transform 0.75s ease-in-out;
-		-webkit-transition: opacity 0.75s ease-in-out, -webkit-transform 0.75s ease-in-out;
-		-ms-transition: opacity 0.75s ease-in-out, -ms-transform 0.75s ease-in-out;
-		transition: opacity 0.75s ease-in-out, transform 0.75s ease-in-out;
+		-moz-transition: opacity 0.25s ease-in-out, -moz-transform 0.25s ease-in-out;
+		-webkit-transition: opacity 0.25s ease-in-out, -webkit-transform 0.25s ease-in-out;
+		-ms-transition: opacity 0.25s ease-in-out, -ms-transform 0.25s ease-in-out;
+		transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
 	}
 
 		.banner.onscroll-image-fade-left .image img {
-			-moz-transition: opacity 0.75s ease-in-out;
-			-webkit-transition: opacity 0.75s ease-in-out;
-			-ms-transition: opacity 0.75s ease-in-out;
-			transition: opacity 0.75s ease-in-out;
+			-moz-transition: opacity 0.25s ease-in-out;
+			-webkit-transition: opacity 0.25s ease-in-out;
+			-ms-transition: opacity 0.25s ease-in-out;
+			transition: opacity 0.25s ease-in-out;
 			-moz-transition-delay: 0.5625s;
 			-webkit-transition-delay: 0.5625s;
 			-ms-transition-delay: 0.5625s;
@@ -3414,17 +3414,17 @@ input, select, textarea {
 		}
 
 	.banner.onscroll-image-fade-right .image {
-		-moz-transition: opacity 0.75s ease-in-out, -moz-transform 0.75s ease-in-out;
-		-webkit-transition: opacity 0.75s ease-in-out, -webkit-transform 0.75s ease-in-out;
-		-ms-transition: opacity 0.75s ease-in-out, -ms-transform 0.75s ease-in-out;
-		transition: opacity 0.75s ease-in-out, transform 0.75s ease-in-out;
+		-moz-transition: opacity 0.25s ease-in-out, -moz-transform 0.25s ease-in-out;
+		-webkit-transition: opacity 0.25s ease-in-out, -webkit-transform 0.25s ease-in-out;
+		-ms-transition: opacity 0.25s ease-in-out, -ms-transform 0.25s ease-in-out;
+		transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
 	}
 
 		.banner.onscroll-image-fade-right .image img {
-			-moz-transition: opacity 0.75s ease-in-out;
-			-webkit-transition: opacity 0.75s ease-in-out;
-			-ms-transition: opacity 0.75s ease-in-out;
-			transition: opacity 0.75s ease-in-out;
+			-moz-transition: opacity 0.25s ease-in-out;
+			-webkit-transition: opacity 0.25s ease-in-out;
+			-ms-transition: opacity 0.25s ease-in-out;
+			transition: opacity 0.25s ease-in-out;
 			-moz-transition-delay: 0.5625s;
 			-webkit-transition-delay: 0.5625s;
 			-ms-transition-delay: 0.5625s;
@@ -3444,10 +3444,10 @@ input, select, textarea {
 		}
 
 	.banner.onscroll-image-fade-in .image img {
-		-moz-transition: opacity 0.75s ease-in-out;
-		-webkit-transition: opacity 0.75s ease-in-out;
-		-ms-transition: opacity 0.75s ease-in-out;
-		transition: opacity 0.75s ease-in-out;
+		-moz-transition: opacity 0.25s ease-in-out;
+		-webkit-transition: opacity 0.25s ease-in-out;
+		-ms-transition: opacity 0.25s ease-in-out;
+		transition: opacity 0.25s ease-in-out;
 	}
 
 	.banner.onscroll-image-fade-in.is-inactive .image img {
@@ -3684,12 +3684,13 @@ input, select, textarea {
 		.banner.style2 .content {
 			padding: 5.25rem 5.25rem 3.25rem 5.25rem ;
 			position: relative;
-			width: 40rem;
+			width: 30rem;
 			max-width: 100%;
 			background-color: inherit;
 			border-radius: 0.5rem;
-			margin-bottom: 2rem;
+			margin-bottom: 15rem;
 			z-index: 1;
+			opacity: 75%;
 		}
 
 		.banner.style2 .image {
@@ -3730,7 +3731,7 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			.banner.style2 {
-				padding: 3.75rem 3.75rem 1.75rem 3.75rem ;
+				padding: 1.75rem 3.75rem 1.75rem 3.75rem ;
 			}
 
 				.banner.style2 .content {
@@ -5676,12 +5677,13 @@ input, select, textarea {
 		.spotlight.style5 .content {
 			padding: 3.5rem 3.5rem 1.5rem 3.5rem ;
 			position: relative;
-			width: 40rem;
+			width: 25rem;
 			max-width: 52.5%;
 			background-color: inherit;
 			border-radius: 0.5rem;
-			margin-bottom: 2rem;
+			margin-bottom: 15rem;
 			z-index: 1;
+			opacity: 75%;
 		}
 
 		.spotlight.style5 .image {
