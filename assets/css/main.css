@@ -177,10 +177,10 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: "Roboto Slab", Helvetica, sans-serif;
 		font-size: 1rem;
 		font-weight: 300;
-		line-height: 1.65;
+		line-height: 1.25;
 	}
 
 	a {
@@ -204,18 +204,19 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 2rem 0;
+		margin: 0 0 1rem 0;
 	}
 
 		p.major {
 			font-size: 1.25rem;
 		}
 
+/*header fonts*/
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
 		line-height: 1.375;
-		letter-spacing: -0.05em;
-		margin: 0 0 1rem 0;
+		letter-spacing: -0.03em;
+		margin: 0 0 .25rem 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2259,7 +2260,7 @@ input, select, textarea {
 /* Form */
 
 	form {
-		margin: 0 0 2rem 0;
+		margin: 0 0 0rem 0;
 	}
 
 		form > :last-child {
@@ -2903,7 +2904,7 @@ input, select, textarea {
 
 		ul.icons li {
 			display: inline-block;
-			padding: 0 0.75rem 0 0;
+			padding: 0 0.25rem 0 0;
 		}
 
 			ul.icons li:last-child {
@@ -5740,7 +5741,7 @@ input, select, textarea {
 			}
 
 				.spotlight.style5 .content {
-					padding: 3rem 3rem 1rem 3rem ;
+					padding: 1rem 1rem .5rem 1rem ;
 				}
 
 		}
@@ -7260,7 +7261,7 @@ input, select, textarea {
 	@media screen and (max-width: 1280px) {
 
 		.wrapper.style1 > .inner {
-			padding: 4rem 4rem 2rem 4rem ;
+			padding: 1rem 1rem 1rem 1rem ;
 		}
 
 	}
